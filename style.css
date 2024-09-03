@@ -1,0 +1,178 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(207, 253, 208);
+}
+.panel{
+    overflow: hidden;
+    height: 80%;
+    width: 80%;
+    border-radius: 15px;
+    background-color: white;
+}
+.phead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20%;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(61, 246, 104);
+}
+.elem{
+    color: white;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    color: rgb(61, 246, 104);
+    border-radius: 5px;
+    background-color: white;
+    height: 20px;
+    width: 30px;
+}
+#pbtm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 15px;
+    height: calc(100%-100px);
+}
+.bubble{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: fuchsia;
+}
+.bubble2{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: red;
+}
+.bubble3{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: green;
+}
+.bubble4{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(61, 18, 202);
+}
+.bubble5{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(24, 197, 220);
+}
+.bubble6{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(98, 251, 92);
+}
+.bubble7{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(233, 127, 27);
+}
+.bubble8{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(165, 31, 69);
+}
+.bubble9{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(96, 56, 0);
+}
+.bubble0{
+    cursor: pointer;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    width: 40px;
+    border: 50%;
+    background-color: rgb(170, 255, 0);
+}
